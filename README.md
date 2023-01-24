@@ -9,4 +9,5 @@ Game demo in real life:
 https://user-images.githubusercontent.com/100281310/214325799-64114212-d58c-4f3b-9bb8-71794772c999.mp4
 
 Authors: Sebastian Maier, Diego Boros, Jérémy Chaverot.
+
 Date: June 2022.
