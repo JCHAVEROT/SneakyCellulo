@@ -5,6 +5,7 @@ Game scenario: You embody a robot, from another dimension. You just landed in an
 Link to the unity WebGL application to play the game online (without sadly the robots) : https://play.unity.com/mg/other/sneakycellulowebgl
 
 Game demo in real life:
+
 https://user-images.githubusercontent.com/100281310/214325799-64114212-d58c-4f3b-9bb8-71794772c999.mp4
 
 Authors: Sebastian Maier, Diego Boros, Jérémy Chaverot.
