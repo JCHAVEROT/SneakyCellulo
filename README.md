@@ -6,9 +6,13 @@ Game scenario: You embody a robot, from another dimension. You just landed in an
 
 Link to the unity WebGL application to play the game online (sadly without robots) : https://play.unity.com/mg/other/sneakycellulowebgl
 
-Game demo in real life:
+# Game demo in real life
 
 https://user-images.githubusercontent.com/100281310/214325799-64114212-d58c-4f3b-9bb8-71794772c999.mp4
+
+# Game menu
+
+https://user-images.githubusercontent.com/100281310/214684889-c875cd0e-8253-4dbc-af96-ec8b37aafeb6.mov
 
 This game project was conducted within the framework of the Human Computer Interaction ([CS-213](https://edu.epfl.ch/coursebook/en/human-computer-interaction-CS-213)) course at EPFL.
 
