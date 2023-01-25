@@ -12,10 +12,10 @@ https://user-images.githubusercontent.com/100281310/214325799-64114212-d58c-4f3b
 
 # Game menu
 
-https://user-images.githubusercontent.com/100281310/214684889-c875cd0e-8253-4dbc-af96-ec8b37aafeb6.mov
+https://user-images.githubusercontent.com/100281310/214685277-22543349-f99a-4b53-8163-125aa52b5993.mov
 
 This game project was conducted within the framework of the Human Computer Interaction ([CS-213](https://edu.epfl.ch/coursebook/en/human-computer-interaction-CS-213)) course at EPFL.
 
 Authors: Sebastian Maier, Diego Boros, Jérémy Chaverot.
 
-Date: June 2022.
+Date: May-June 2022.
